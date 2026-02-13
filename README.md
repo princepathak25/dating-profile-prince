@@ -29,23 +29,6 @@ https://princepathak25.github.io/dating-profile-prince/
 
 ---
 
-## 🚀 How To Host on GitHub Pages
-
-1. Push your project to a GitHub repository.
-2. Go to **Repository → Settings → Pages**
-3. Under **Source**, select:
-   - Branch: `main`
-   - Folder: `/ (root)`
-4. Click **Save**
-5. GitHub will generate your live site link.
-
-Your site will be available at:
-
-```
-https://yourusername.github.io/your-repository-name/
-```
-
----
 
 ## 📂 Project Structure
 
