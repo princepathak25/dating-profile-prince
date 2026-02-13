@@ -24,7 +24,7 @@ You can view the live version of this project here:
 
 🔗 **Live Demo:**  
 ```
-https://princepathak25.github.io/dating-profile-prince/
+https://dating-profile-prince.vercel.app/
 ```
 
 ---
